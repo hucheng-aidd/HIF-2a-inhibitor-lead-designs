@@ -1,1 +1,22 @@
 # HIF-2a-inhibitor-lead-designs
+Cc1[nH]c(-c2cc3cccnc3[nH]2)c2c1C(=O)NCC2
+Cc1[nH]c(-c2cc3cccnc3[nH]2)c2c1C(=O)N(C)CC2
+Cc1[nH]c(-c2cc3cccnc3[nH]2)c2c1C(=O)N(C)CC2
+Cc1n[nH]c(Nc2cn3c(n2)-c2ccccc2OCC3)n1
+c1ccc2c(c1)OCCN2CCc1cccc2nonc12
+Oc1ccc(F)cc1CO[C@H]1CCOc2ccccc21
+Nc1nc2c(c(NCc3cccc4cn[nH]c34)n1)CCCC2
+O=c1[nH]c(Nc2cccc3cn[nH]c23)nc2c1CCC2
+Cc1ccc(O)c(C[NH2+][C@H]2CCOc3ccccc32)c1
+CC1(C)Cc2nc(-c3ncnc4[nH]ccc34)ncc2C(=O)N1
+Cc1cc(Nc2cn3c(n2)-c2ccccc2OCC3)[nH]n1
+O=C1C[C@@H](CNc2cccc3cn[nH]c23)N1C1CCCC1
+O=c1ccc2cnc(Nc3ccccn3)nc2n1C1CC1
+Cc1[nH]c(-c2ccc3cn[nH]c3c2)c2c1C(=O)N(C)CC2
+c1cc(C[N@@H+]2CCn3nccc3C2)c2[nH]ncc2c1
+C[C@@H](Nc1ncnc2[nH]nnc12)c1cnn2c1COCC2
+C[C@@H](Nc1nccc2[nH]cnc12)c1cnn2c1COCC2
+O=C(Nc1ccc2[nH]nnc2c1)c1cnn2c1CCCC2
+CN(Cc1[nH]nc2c1CCC2)c1ncnc2ccccc12
+CN(Cc1[nH]nc2c1CCC2)c1ccnc2ccccc12
+Cc1[nH]c(-c2cc3cccnc3[nH]2)c2c1C(=O)CCC2
